@@ -1,6 +1,14 @@
 # DiscordClone
 This is a simple Clone of Discord using Tailwind CSS.
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/harshmishra0403/DiscordClone.git
+```
+
 Go to the project directory
 
 ```bash
